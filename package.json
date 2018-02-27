@@ -1,0 +1,14 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "description": "selenium test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andres Macias",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
